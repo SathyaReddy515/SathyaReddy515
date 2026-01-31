@@ -73,12 +73,15 @@ Strong in Data Structures, Object-Oriented Programming, and modern web technolog
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SathyaReddy515&show_icons=true"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=SathyaReddy515"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SathyaReddy515&layout=compact"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=SathyaReddy515&show_icons=true"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SathyaReddy515&layout=compact"/>
+
 </p>
+
 
 
 
