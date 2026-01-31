@@ -83,4 +83,4 @@ I actively solve DSA problems and explore new frameworks and AI tools to stay in
 
 ---
 
-⭐ *Do or do not. There is no try.* — Yoda
+⭐ *Do or do not. There is no try.* — Sathya
