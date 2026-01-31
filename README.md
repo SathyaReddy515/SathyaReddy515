@@ -71,17 +71,21 @@ Strong in Data Structures, Object-Oriented Programming, and modern web technolog
 
 ## 📊 GitHub Stats
 
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gurreddysathya&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=gurreddysathya&show_icons=true"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gurreddysathya&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=gurreddysathya"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurreddysathya&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurreddysathya&layout=compact"/>
+
 </p>
+
 
 
 ---
