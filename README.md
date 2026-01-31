@@ -74,7 +74,7 @@ Strong in Data Structures, Object-Oriented Programming, and modern web technolog
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gurreddysathya&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SathyaReddy515&show_icons=true"/>
 
 <br/>
 
