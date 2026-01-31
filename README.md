@@ -66,9 +66,9 @@ Alongside development, I actively solve DSA problems and explore new frameworks 
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=gurreddysathya&show_icons=true"/>
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurreddysathya&layout=compact"/>
 
 ---
 
