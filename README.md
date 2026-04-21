@@ -15,7 +15,7 @@ Strong in Data Structures, Object-Oriented Programming, and modern web technolog
 - 🧠 Strong foundation in DSA & OOP
 - 🔭 Building real-world projects
 - 🌱 Learning advanced backend & system design
-- 📫 Email: gurreddysathya382@gmail.com
+- 📫 Email: gurreddysathya1112@gmail.com
 
 ---
 
