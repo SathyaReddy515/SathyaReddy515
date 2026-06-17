@@ -1,72 +1,86 @@
+```md
 <h1 align="center">Hi 👋, I'm Sathya Vardhan Reddy</h1>
-<h3 align="center">Aspiring Software Engineer | Full Stack Developer | AI & ML</h3>
+<h3 align="center">Software Engineer | Java Backend Developer | Full Stack Developer</h3>
 
 <p align="center">
-Passionate about building scalable full-stack applications and AI-powered projects.<br/>
-Strong in Data Structures, Object-Oriented Programming, and modern web technologies.
+Passionate about building scalable backend systems, microservices, and AI-powered applications.<br/>
+Strong in Data Structures & Algorithms, Object-Oriented Programming, System Design, and modern software engineering practices.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 B.E. Computer Science (AI & ML)
-- 💻 Full Stack Developer (React, Next.js, Node.js)
+- 🎓 B.E. Computer Science Engineering (AI & ML)
+- 💻 Software Engineer focused on Java Backend Development
+- ⚡ Skilled in Spring Boot, Kafka, Redis, Docker, and React
 - 🧠 Strong foundation in DSA & OOP
-- 🔭 Building real-world projects
-- 🌱 Learning advanced backend & system design
-- 📫 Email: gurreddysathya1112@gmail.com
+- 🔭 Building scalable microservices and distributed applications
+- 🌱 Learning advanced System Design and Distributed Systems
+- 📫 Email: gurreddysathya382@gmail.com
 
 ---
 
 ## 🧰 Tech Stack
 
-### Languages  
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 
-### Frontend  
+### Frontend
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
 
-### Backend  
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+### Backend
 
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
+![Apache Kafka](https://img.shields.io/badge/ApacheKafka-000000?style=for-the-badge&logo=apachekafka)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
-### Databases & Tools  
-![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+### Databases & Tools
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 AI-Powered Car Marketplace
-- AI-based image recognition  
-- Automated car detail extraction  
-- Role-based authentication  
-- Tech: Next.js, React, PostgreSQL, Prisma  
+### 🔹 Ride-Sharing Microservices Platform
 
-### 🔹 Adaptive Learning Platform
-- Personalized quizzes  
-- JWT authentication  
-- Dockerized deployment  
-- Tech: React, Node.js, MongoDB  
+- Built using 3 Spring Boot microservices
+- Implemented Apache Kafka for asynchronous event processing
+- Utilized Redis GEO for nearest-driver discovery
+- Dockerized services using Docker Compose
+- **Tech Stack:** Spring Boot, Kafka, Redis, MySQL, Docker
 
-### 🔹 Hotel Booking Management System
-- REST APIs  
-- MVC architecture  
-- Full CRUD operations  
+### 🔹 AI-Powered Vehicle Marketplace
 
+- AI-powered vehicle listing automation
+- Gemini API integration for vehicle detail extraction
+- Role-based authentication using Clerk
+- Arcjet rate limiting for API protection
+- **Tech Stack:** Next.js, React, PostgreSQL, Prisma, Gemini API
 ---
 
+## 🏆 Achievements
+
+- Solved **350+ DSA problems** on LeetCode
+- Achieved a **LeetCode Contest Rating of 1355**
+- Participated in **5+ Hackathons and Coding Competitions**
+- AWS Academy Graduate – Cloud Developing
+- GitHub Foundations Certified
+
+---
 
 ## 📊 GitHub Stats
 
@@ -79,10 +93,6 @@ Strong in Data Structures, Object-Oriented Programming, and modern web technolog
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SathyaReddy515&layout=compact"/>
 
 </p>
-
-
-
-
 
 ---
 
@@ -100,4 +110,13 @@ Strong in Data Structures, Object-Oriented Programming, and modern web technolog
 
 ---
 
-⭐ *Do or do not. There is no try.* — Sathya
+## ⚡ Interests
+
+- Backend Engineering
+- Distributed Systems
+- Microservices
+- System Design
+- Competitive Programming
+
+⭐ *Building scalable software, one service at a time.*
+```
